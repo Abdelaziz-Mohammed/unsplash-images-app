@@ -24,7 +24,7 @@ A React application that fetches and displays images from the Unsplash API based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/unsplash-images-app.git
+   git clone https://github.com/Abdelaziz-Mohammed/unsplash-images-app.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -36,7 +36,7 @@ A React application that fetches and displays images from the Unsplash API based
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 5. Open your browser and go to `http://localhost:3000` to view the app.
 
@@ -44,8 +44,8 @@ A React application that fetches and displays images from the Unsplash API based
 
 Create a `.env` file in the root directory and add your Unsplash API access key:
 
-```VITE_UNSPLASH_ACCESS_KEY=your_access_key_here
-
+```bash
+VITE_UNSPLASH_ACCESS_KEY=your_access_key_here
 ```
 
 ## 👨‍💻 Author

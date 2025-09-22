@@ -2,6 +2,15 @@
 
 A React application that fetches and displays images from the Unsplash API based on user search input. The app features a dark/light theme toggle and pagination for browsing through multiple pages of images.
 
+## Live Demo
+
+[Unsplash Images App](https://images-unsplash-app.netlify.app/)
+
+## Screenshots
+
+![Light Theme Screenshot](./thumbnail-light.jpeg)
+![Dark Theme Screenshot](./thumbnail-dark.jpeg)
+
 ## Features
 
 - Search for images using keywords.

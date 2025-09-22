@@ -8,8 +8,8 @@ A React application that fetches and displays images from the Unsplash API based
 
 ## Screenshots
 
-![Light Theme Screenshot](./thumbnail-light.jpeg)
-![Dark Theme Screenshot](./thumbnail-dark.jpeg)
+![Light Theme Screenshot](./public/thumbnail-light.jpeg)
+![Dark Theme Screenshot](./public/thumbnail-dark.jpeg)
 
 ## Features
 
